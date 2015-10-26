@@ -28,7 +28,7 @@ void ofApp::draw(){
 
     ofCircle(0, 0, circleSize);
     ofPopMatrix();
-    biubiubiu("biu");
+    biubiubiu("biubiubiu");
 }
 
 //--------------------------------------------------------------
